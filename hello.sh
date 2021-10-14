@@ -2,6 +2,7 @@
 #echo Comment
 echo Hello
 echo World
+echo Test
 
 msg= "Hello World"
 
